@@ -56,6 +56,7 @@ A detailed report that explained the process and why each step was taken and cos
 •	Screenshots of Implementation Steps 
 •	AWS Cost Estimation Report
 •	Insights & Findings from Data Analysis
+
 Project Part 2: DAP platform Analysis
 Project Title: AWS Data Analytics Platform for the City of Vancouver
 Project Description: This project focuses on leveraging AWS cloud services to develop a scalable Data Analytics Platform (DAP) for analyzing datasets from the City of Vancouver. The objective is to implement a structured ETL pipeline for data ingestion, transformation, validation, and visualization, ensuring accurate and actionable insights for stakeholders.
@@ -121,6 +122,7 @@ Key achievements:
 •	Scalable architecture capable of handling large datasets with minimal overhead.
 •	Real-time monitoring & logging to detect failures and trigger rollback processes.
 •	Enhanced decision-making through visual analytics and trend detection.
+
 Project 3: Data Cleaning
 Project Title: AWS-Based Data Cleaning and Analysis for Workforce and Policy Management
 Project Description: This project focuses on cleaning, analyzing, and structuring workforce and policy-related datasets using AWS cloud services. The goal is to ensure high-quality data for workforce management and policy assessment by applying data preprocessing techniques such as handling missing values, removing duplicates, standardizing formats, and validating data types. Additionally, the project aims to leverage AWS services for efficient data storage, processing, and querying to support scalable and cost-effective solutions.

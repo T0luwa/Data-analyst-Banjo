@@ -1,5 +1,4 @@
 ******Project 1: Descriptive Analysis**
- 
 Project Description: Descriptive Analysis using AWS Data Analytic Platform for The City of Vancouver
 Project Title: Understanding the Food and Housing 
 Project Objective: This project focuses on designing and implementing a Data Analytic Platform (DAP) for the City of Vancouver to support descriptive analysis. The goal is to process and analyze data using AWS cloud services.

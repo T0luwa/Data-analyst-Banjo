@@ -1,4 +1,4 @@
-Project 1: Descriptive Analysis
+**Project 1: Descriptive Analysis**
 Project Description: Descriptive Analysis using AWS Data Analytic Platform for The City of Vancouver
 Project Title: Understanding the Food and Housing 
 Project Objective: This project focuses on designing and implementing a Data Analytic Platform (DAP) for the City of Vancouver to support descriptive analysis. The goal is to process and analyze data using AWS cloud services.
@@ -57,7 +57,7 @@ A detailed report that explained the process and why each step was taken and cos
 •	AWS Cost Estimation Report
 •	Insights & Findings from Data Analysis
 
-Project Part 2: DAP platform Analysis
+**Project Part 2: DAP platform Analysis**
 Project Title: AWS Data Analytics Platform for the City of Vancouver
 Project Description: This project focuses on leveraging AWS cloud services to develop a scalable Data Analytics Platform (DAP) for analyzing datasets from the City of Vancouver. The objective is to implement a structured ETL pipeline for data ingestion, transformation, validation, and visualization, ensuring accurate and actionable insights for stakeholders.
 Background: Urban governance and workforce management rely on high-quality, structured data for decision-making. However, raw datasets from the City of Vancouver's open data portal often suffer from inconsistencies, missing values, and redundant records, making it challenging to extract reliable insights. The AWS-based Data Analytics Platform was developed to:
@@ -123,7 +123,7 @@ Key achievements:
 •	Real-time monitoring & logging to detect failures and trigger rollback processes.
 •	Enhanced decision-making through visual analytics and trend detection.
 
-Project 3: Data Cleaning
+**Project 3: Data Cleaning**
 Project Title: AWS-Based Data Cleaning and Analysis for Workforce and Policy Management
 Project Description: This project focuses on cleaning, analyzing, and structuring workforce and policy-related datasets using AWS cloud services. The goal is to ensure high-quality data for workforce management and policy assessment by applying data preprocessing techniques such as handling missing values, removing duplicates, standardizing formats, and validating data types. Additionally, the project aims to leverage AWS services for efficient data storage, processing, and querying to support scalable and cost-effective solutions.
 Background: Organizations rely on accurate and structured data for effective decision-making. However, raw datasets often contain inconsistencies, missing values, and redundant information, making analysis difficult. By leveraging AWS Glue DataBrew, AWS S3, and AWS Athena, this project cleans and processes three datasets to facilitate efficient workforce management and policy compliance analysis. The cleaned datasets can help in:
@@ -169,7 +169,7 @@ Deliverables
 •	AWS Athena queries for data analysis 
 •	Insights and recommendations document 
 
-Project 4: Data Quality Control
+**Project 4: Data Quality Control**
 Project Title: AWS-Based Data Quality Control for Workforce and Policy Datasets
 Project Description: This project focuses on implementing a Data Quality Control (DQC) framework using AWS cloud services for workforce and policy datasets. The goal is to ensure high data integrity, accuracy, and consistency by applying validation rules, anomaly detection, and automated error-handling mechanisms. The project integrates AWS services such as AWS Glue, AWS DataBrew, and AWS Athena to automate data quality checks, monitor data pipelines, and ensure compliance with data management standards.
 Background: Data quality is critical for workforce and policy management, ensuring accurate decision-making and regulatory compliance. Poor data quality can lead to:
@@ -244,5 +244,3 @@ This project successfully implemented a Data Quality Control (DQC) framework usi
 •	Automating anomaly detection using AWS machine learning models.
 •	Integrating AWS Lambda for real-time validation workflows.
 •	Expanding data quality monitoring using AWS CloudWatch.
-
-![image](https://github.com/user-attachments/assets/3075217b-b917-41d2-82a1-1179e4d9ebaa)

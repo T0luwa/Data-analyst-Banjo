@@ -1,64 +1,60 @@
-images/project 1.jpg
+
 ******Project 1: Descriptive Analysis**
 Project Description: Descriptive Analysis using AWS Data Analytic Platform for The City of Vancouver
 Project Title: Understanding the Food and Housing 
 Project Objective: This project focuses on designing and implementing a Data Analytic Platform (DAP) for the City of Vancouver to support descriptive analysis. The goal is to process and analyze data using AWS cloud services.
 Project Requirements
-1.	Design and Implement a Data Analytic Platform
-2.	 Develop a cloud-based platform for data analytics using AWS.
-3.	Implement the five-step descriptive analysis process:
-•	Step 1: Data Ingestion
-•	Step 2: Data Profiling
-•	Step 3: Data Cleaning
-•	Step 4: Data Cataloging
-•	Step 5: Data Summarization
-Dataset
-•	Source: [City of Vancouver Open Data Portal] (https://opendata.vancouver.ca/)
-Description: The dataset includes rental standards, housing statistics, zoning regulations, and occupancy rates.
-Format: CSV
-Data Fields:
-•	Business Operator-Unique Identifier
-•	Detail URL: The URL for the business.
-•	Street Number: The number of the street.
-•	Street Name: The name of the street.
-•	Total Outstanding: The amount outstanding (likely unpaid fees or fines).
-•	Total Units: The number of rental units associated with the operator.
-•	Geom: Geometric representation of the property (spatial data).
-•	Geo Local Area: The local area within Vancouver.
-•	Geo_point_2d: Latitude and longitude coordinates.
+      1.	Design and Implement a Data Analytic Platform
+      2.	 Develop a cloud-based platform for data analytics using AWS.
+      3.	Implement the five-step descriptive analysis process:
+      •	Step 1: Data Ingestion
+      •	Step 2: Data Profiling
+      •	Step 3: Data Cleaning
+      •	Step 4: Data Cataloging
+      •	Step 5: Data Summarization
+  Dataset•	Source: [City of Vancouver Open Data Portal] (https://opendata.vancouver.ca/)
+  Description: The dataset includes rental standards, housing statistics, zoning regulations, and occupancy rates.
+  Format: CSV
+  Data Fields:
+    •	Business Operator-Unique Identifier
+    •	Detail URL: The URL for the business.
+    •	Street Number: The number of the street.
+    •	Street Name: The name of the street.
+    •	Total Outstanding: The amount outstanding (likely unpaid fees or fines).
+    •	Total Units: The number of rental units associated with the operator.
+    •	Geom: Geometric representation of the property (spatial data).
+    •	Geo Local Area: The local area within Vancouver.
+    •	Geo_point_2d: Latitude and longitude coordinates.
+  Deliverables
+    •	AWS Data Analytic Platform Implementation 
+    •	Architecture Diagram (draw.io) 
+    •	Descriptive Analysis Report 
+    •	Screenshots of Implementation Steps 
+    •	AWS Cost Estimation Report.
+  Methodology
+    •	Data Collection and Preparation: The dataset attached below was prepared and downloaded from the city of Vancouver portal in CSV format for easy data ingestion and transformation.
+    •	Data Ingestion: Data is ingested from the portal of the City of Vancouver under Food and Housing and manually uploaded in the AWS S3 Bucket.
+    •	Data Profiling: Data is profiled using AWS Glue DataBrew to evaluate its content and structure while examining the quality characteristics.
+    •	Data Cleaning: In the same AWS Glue DataBrew, the data inconsistencies were addressed, i.e., unnesting the columns and renaming the columns.
+    •	Data Cataloging: Using a crawler in the AWS Glue to scan the cleaned and transformed dataset and then organize it further into a catalog based on the established metrics, i.e., Average Total Outstanding and Average Total Units.
+    •	Data Summarization: Using AWS Glue, a pipeline was created to process the cleaned dataset accessed from the S3 bucket.
+  Insights and Findings: The relationship between business operators and average total outstanding and total units was viewed, analyzed, and stored in real time for accurate record keeping.
+  Tools and Technologies Used
+    •	AWS S3: Storage for raw and processed data 
+    •	AWS Glue: Data Cataloging and ETL 
+    •	AWS Glue DataBrew: Data Cleaning
+    •	AWS Pricing Calculator: Cost estimation for AWS services 
+    •	draw.io: Architecture diagram design 
+  AWS Cost Estimation: Used the AWS Pricing Calculator to estimate monthly and yearly costs for running the DAP.
 Deliverables
-•	AWS Data Analytic Platform Implementation 
-•	Architecture Diagram (draw.io) 
-•	Descriptive Analysis Report 
-•	Screenshots of Implementation Steps 
-•	AWS Cost Estimation Report.
-Methodology
-•	Data Collection and Preparation: The dataset attached below was prepared and downloaded from the city of Vancouver portal in CSV format for easy data ingestion and transformation.
-•	Data Ingestion: Data is ingested from the portal of the City of Vancouver under Food and Housing and manually uploaded in the AWS S3 Bucket.
-•	Data Profiling: Data is profiled using AWS Glue DataBrew to evaluate its content and structure while examining the quality characteristics.
-•	Data Cleaning: In the same AWS Glue DataBrew, the data inconsistencies were addressed, i.e., unnesting the columns and renaming the columns.
-•	Data Cataloging: Using a crawler in the AWS Glue to scan the cleaned and transformed dataset and then organize it further into a catalog based on the established metrics, i.e., Average Total Outstanding and Average Total Units.
-•	Data Summarization: Using AWS Glue, a pipeline was created to process the cleaned dataset accessed from the S3 bucket.
-Insights and Findings
-The relationship between business operators and average total outstanding and total units was viewed, analyzed, and stored in real time for accurate record keeping.
-Tools and Technologies Used
-•	AWS S3: Storage for raw and processed data 
-•	AWS Glue: Data Cataloging and ETL 
-•	AWS Glue DataBrew: Data Cleaning
-•	AWS Pricing Calculator: Cost estimation for AWS services 
-•	draw.io: Architecture diagram design 
-AWS Cost Estimation
-Used the AWS Pricing Calculator to estimate monthly and yearly costs for running the DAP.
-Deliverables
-A detailed report that explained the process and why each step was taken and cost calculation for accurate record keeping and accountability.
-•	AWS Data Analytic Platform Implementation 
-•	Architecture Diagram-draw.io
-•	Descriptive Analysis Report
-•	Screenshots of Implementation Steps 
-•	AWS Cost Estimation Report
-•	Insights & Findings from Data Analysis
+    A detailed report that explained the process and why each step was taken and cost calculation for accurate record keeping and accountability.
+      •	AWS Data Analytic Platform Implementation 
+      •	Architecture Diagram-draw.io
+      •	Descriptive Analysis Report
+      •	Screenshots of Implementation Steps 
+      •	AWS Cost Estimation Report
+      •	Insights & Findings from Data Analysis
 
-images/project 2.jpg
 **Project Part 2: DAP platform Analysis**
 Project Title: AWS Data Analytics Platform for the City of Vancouver
 Project Description: This project focuses on leveraging AWS cloud services to develop a scalable Data Analytics Platform (DAP) for analyzing datasets from the City of Vancouver. The objective is to implement a structured ETL pipeline for data ingestion, transformation, validation, and visualization, ensuring accurate and actionable insights for stakeholders.
@@ -125,7 +121,6 @@ Key achievements:
 •	Real-time monitoring & logging to detect failures and trigger rollback processes.
 •	Enhanced decision-making through visual analytics and trend detection.
 
-images/project 3.jpg
 ******Project 3: Data Cleaning** ****
 Project Title: AWS-Based Data Cleaning and Analysis for Workforce and Policy Management
 Project Description: This project focuses on cleaning, analyzing, and structuring workforce and policy-related datasets using AWS cloud services. The goal is to ensure high-quality data for workforce management and policy assessment by applying data preprocessing techniques such as handling missing values, removing duplicates, standardizing formats, and validating data types. Additionally, the project aims to leverage AWS services for efficient data storage, processing, and querying to support scalable and cost-effective solutions.
@@ -148,7 +143,6 @@ Policy List Dataset (policy-list.csv)
 •	Contains numerical data related to organizational policies.
 •	Includes ten numeric features (Feature_1 to Feature_10).
 •	Supports policy assessment and compliance monitoring.
-
 Methodology: The project follows a structured methodology for data cleaning and analysis:
 1.	Data Ingestion: Upload raw datasets to AWS S3 for storage.
 2.	Data Profiling: Analyze missing values, duplicates, and data types using AWS Glue DataBrew.
@@ -170,9 +164,8 @@ Deliverables
 •	Data cleaning and profiling reports 
 •	AWS Glue DataBrew transformation scripts
 •	AWS Athena queries for data analysis 
-•	Insights and recommendations document 
-
-images/project 4.jpg
+•	Insights and recommendations document
+            
 **Project 4: Data Quality Control**
 Project Title: AWS-Based Data Quality Control for Workforce and Policy Datasets
 Project Description: This project focuses on implementing a Data Quality Control (DQC) framework using AWS cloud services for workforce and policy datasets. The goal is to ensure high data integrity, accuracy, and consistency by applying validation rules, anomaly detection, and automated error-handling mechanisms. The project integrates AWS services such as AWS Glue, AWS DataBrew, and AWS Athena to automate data quality checks, monitor data pipelines, and ensure compliance with data management standards.

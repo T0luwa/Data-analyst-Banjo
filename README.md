@@ -123,6 +123,7 @@ The AWS Data Analytics Platform successfully implemented a scalable, automated, 
 •	Enhanced decision-making through visual analytics and trend detection.
 
 # Project 3: Data Cleaning
+![Image](https://github.com/user-attachments/assets/6d3d0705-14ab-4295-845d-b3ff895c0c8f)
 ## Project Title: AWS-Based Data Cleaning and Analysis for Workforce and Policy Management
 ## Project Description: This project focuses on cleaning, analyzing, and structuring workforce and policy-related datasets using AWS cloud services. The goal is to ensure high-quality data for workforce management and policy assessment by applying data preprocessing techniques such as handling missing values, removing duplicates, standardizing formats, and validating data types. Additionally, the project aims to leverage AWS services for efficient data storage, processing, and querying to support scalable and cost-effective solutions.
 ## Background: Organizations rely on accurate and structured data for effective decision-making. However, raw datasets often contain inconsistencies, missing values, and redundant information, making analysis difficult. By leveraging AWS Glue DataBrew, AWS S3, and AWS Athena, this project cleans and processes three datasets to facilitate efficient workforce management and policy compliance analysis. The cleaned datasets can help in:

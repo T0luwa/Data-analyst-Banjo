@@ -56,6 +56,7 @@
       •	Insights & Findings from Data Analysis
 
 # Project Part 2: DAP platform Analysis**
+![Image](https://github.com/user-attachments/assets/1373ddf8-4a78-499d-9d40-d23297d943d1)
 ## Project Title: AWS Data Analytics Platform for the City of Vancouver
 ## Project Description: This project focuses on leveraging AWS cloud services to develop a scalable Data Analytics Platform (DAP) for analyzing datasets from the City of Vancouver. The objective is to implement a structured ETL pipeline for data ingestion, transformation, validation, and visualization, ensuring accurate and actionable insights for stakeholders.
 ## Background: Urban governance and workforce management rely on high-quality, structured data for decision-making. However, raw datasets from the City of Vancouver's open data portal often suffer from inconsistencies, missing values, and redundant records, making it challenging to extract reliable insights. The AWS-based Data Analytics Platform was developed to:

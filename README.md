@@ -244,3 +244,5 @@ This project successfully implemented a Data Quality Control (DQC) framework usi
 •	Automating anomaly detection using AWS machine learning models.
 •	Integrating AWS Lambda for real-time validation workflows.
 •	Expanding data quality monitoring using AWS CloudWatch.
+# MY AWS COMPLETION BADGE
+![Image](https://github.com/user-attachments/assets/40a2ba59-5073-4797-95e7-a9d1e9a9835b)

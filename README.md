@@ -169,6 +169,7 @@ o	Validate and correct incorrect data types.
 •	Insights and recommendations document
             
 # Project 4: Data Quality Control
+![Image](https://github.com/user-attachments/assets/06f3ac16-0d63-4bd8-9f46-0c7986676a67)
 ## Project Title: AWS-Based Data Quality Control for Workforce and Policy Datasets
 ## Project Description: This project focuses on implementing a Data Quality Control (DQC) framework using AWS cloud services for workforce and policy datasets. The goal is to ensure high data integrity, accuracy, and consistency by applying validation rules, anomaly detection, and automated error-handling mechanisms. The project integrates AWS services such as AWS Glue, AWS DataBrew, and AWS Athena to automate data quality checks, monitor data pipelines, and ensure compliance with data management standards.
 ## Background: Data quality is critical for workforce and policy management, ensuring accurate decision-making and regulatory compliance. Poor data quality can lead to:

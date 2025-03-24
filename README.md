@@ -55,7 +55,7 @@
       •	AWS Cost Estimation Report
       •	Insights & Findings from Data Analysis
 
-# Project Part 2: DAP platform Analysis**
+# Project Part 2: DAP Implementation
 ![Image](https://github.com/user-attachments/assets/1373ddf8-4a78-499d-9d40-d23297d943d1)
 ## Project Title: AWS Data Analytics Platform for the City of Vancouver
 ## Project Description: This project focuses on leveraging AWS cloud services to develop a scalable Data Analytics Platform (DAP) for analyzing datasets from the City of Vancouver. The objective is to implement a structured ETL pipeline for data ingestion, transformation, validation, and visualization, ensuring accurate and actionable insights for stakeholders.

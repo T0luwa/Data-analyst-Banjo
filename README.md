@@ -59,7 +59,7 @@
 ![Image](https://github.com/user-attachments/assets/1373ddf8-4a78-499d-9d40-d23297d943d1)
 ## Project Title: AWS Data Analytics Platform for the City of Vancouver
 ## Project Description: This project focuses on leveraging AWS cloud services to develop a scalable Data Analytics Platform (DAP) for analyzing datasets from the City of Vancouver. The objective is to implement a structured ETL pipeline for data ingestion, transformation, validation, and visualization, ensuring accurate and actionable insights for stakeholders.
-## Background: Urban governance and workforce management rely on high-quality, structured data for decision-making. However, raw datasets from the City of Vancouver's open data portal often suffer from inconsistencies, missing values, and redundant records, making it challenging to extract reliable insights. The AWS-based Data Analytics Platform was developed to:
+Background: Urban governance and workforce management rely on high-quality, structured data for decision-making. However, raw datasets from the City of Vancouver's open data portal often suffer from inconsistencies, missing values, and redundant records, making it challenging to extract reliable insights. The AWS-based Data Analytics Platform was developed to:
 •	Automate data ingestion using AWS Glue and AWS S3.
 •	Enhance data validation through AWS Glue Data Brew transformations.
 •	Enable scalable analytics with AWS Athena.
@@ -126,7 +126,7 @@ The AWS Data Analytics Platform successfully implemented a scalable, automated, 
 ![Image](https://github.com/user-attachments/assets/6d3d0705-14ab-4295-845d-b3ff895c0c8f)
 ## Project Title: AWS-Based Data Cleaning and Analysis for Workforce and Policy Management
 ## Project Description: This project focuses on cleaning, analyzing, and structuring workforce and policy-related datasets using AWS cloud services. The goal is to ensure high-quality data for workforce management and policy assessment by applying data preprocessing techniques such as handling missing values, removing duplicates, standardizing formats, and validating data types. Additionally, the project aims to leverage AWS services for efficient data storage, processing, and querying to support scalable and cost-effective solutions.
-## Background: Organizations rely on accurate and structured data for effective decision-making. However, raw datasets often contain inconsistencies, missing values, and redundant information, making analysis difficult. By leveraging AWS Glue DataBrew, AWS S3, and AWS Athena, this project cleans and processes three datasets to facilitate efficient workforce management and policy compliance analysis. The cleaned datasets can help in:
+Background: Organizations rely on accurate and structured data for effective decision-making. However, raw datasets often contain inconsistencies, missing values, and redundant information, making analysis difficult. By leveraging AWS Glue DataBrew, AWS S3, and AWS Athena, this project cleans and processes three datasets to facilitate efficient workforce management and policy compliance analysis. The cleaned datasets can help in:
 •	Improving HR processes through structured employee information.
 •	Enhancing policy enforcement by identifying patterns in policy-related data.
 •	Facilitating better reporting for data-driven decision-making.
@@ -172,7 +172,7 @@ o	Validate and correct incorrect data types.
 ![Image](https://github.com/user-attachments/assets/06f3ac16-0d63-4bd8-9f46-0c7986676a67)
 ## Project Title: AWS-Based Data Quality Control for Workforce and Policy Datasets
 ## Project Description: This project focuses on implementing a Data Quality Control (DQC) framework using AWS cloud services for workforce and policy datasets. The goal is to ensure high data integrity, accuracy, and consistency by applying validation rules, anomaly detection, and automated error-handling mechanisms. The project integrates AWS services such as AWS Glue, AWS DataBrew, and AWS Athena to automate data quality checks, monitor data pipelines, and ensure compliance with data management standards.
-## Background: Data quality is critical for workforce and policy management, ensuring accurate decision-making and regulatory compliance. Poor data quality can lead to:
+Background: Data quality is critical for workforce and policy management, ensuring accurate decision-making and regulatory compliance. Poor data quality can lead to:
 •	Inconsistent workforce records and policy enforcement.
 •	Misclassification of supervisors and workers.
 •	Gaps in policy documentation and outdated records.
